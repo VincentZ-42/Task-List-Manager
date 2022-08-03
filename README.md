@@ -1,10 +1,6 @@
 # Todo List Tracker: <a href="https://secure-harbor-05512.herokuapp.com/users/signin" target="_blank">Demo</a>
 - Web Application that allows users to create a multiple list of to-dos and track their task completion
 
-![developer login](https://user-images.githubusercontent.com/49771001/182644408-a586817b-41ab-4e72-9021-4cb7d29bafb3.png)
-
-![View Todo List](https://user-images.githubusercontent.com/49771001/182644442-cfcf385b-37cc-4ab8-aa57-36b0bef84ff1.png)
-
 # Table of Contents
 - [Usage](#usage)
 - [Images](#images)
@@ -25,8 +21,14 @@
 
 ## Images
 
+| Feature | Image |
+| :-: | :-- |
+| Developer Login | ![developer login](https://user-images.githubusercontent.com/49771001/182644408-a586817b-41ab-4e72-9021-4cb7d29bafb3.png) |
+| Viewing a Todo List | ![View Todo List](https://user-images.githubusercontent.com/49771001/182644442-cfcf385b-37cc-4ab8-aa57-36b0bef84ff1.png) |
+| Sign In | ![sign in page](https://user-images.githubusercontent.com/49771001/182644376-e3dfb875-ef4e-4ceb-9af4-ffe6202457d4.png) |
+
 #### Sign in page
-![sign in page](https://user-images.githubusercontent.com/49771001/182644376-e3dfb875-ef4e-4ceb-9af4-ffe6202457d4.png)
+
 
 #### Admin's Todo Lists
 ![Admin Login](https://user-images.githubusercontent.com/49771001/182644396-d87f3119-396e-41d0-bd89-238881a66c56.png)
