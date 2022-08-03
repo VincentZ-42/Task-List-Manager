@@ -1,12 +1,15 @@
-# Todo List Tracker: [Demo](https://secure-harbor-05512.herokuapp.com/users/signin)
-- Web Application that allows users to create a multiple list of to-dos and track their task completion
+# Task List Manager: [Demo](https://secure-harbor-05512.herokuapp.com/users/signin)
 
 # Table of Contents
+- [Description](#description)
 - [Usage](#usage)
 - [Images](#images)
 - [Objectives](#objectives)
 - [Technologies Used](#technologies-used)
 - [References](#references)
+
+## Description
+Task List Manager is a web application that allows users to create multiple lists of tasks and track their completion. Each list and task is unqiue to the user. This application is an upgrade of [To-Do List Tracker](https://github.com/VincentZ-42/LaunchSchool/tree/main/js175/todo), which now includes the implementation of PostgreSQL as the database to persist data and deployed on Heroku.  
 
 ## Usage
 - Click on [Demo](https://secure-harbor-05512.herokuapp.com/users/signin)
@@ -36,11 +39,13 @@
 | Admin Login View | ![Admin Login](https://user-images.githubusercontent.com/49771001/182644396-d87f3119-396e-41d0-bd89-238881a66c56.png) |
 
 
-
 ## Objectives
 - Create a web application that can track task completion for various to-do lists for mutiple users
+	- `Express.js` widely used to handling routing and HTTP requests
 - Use relational database, PostgresSQL, to store user information
+	- `PostgreSQL` allows us to associate specific data with certain users, allowing a more personal interface with the application  
 - Deploy web application on Heroku
+	- Deploying on Heorku allows our application to run on a cloud service, giving access to anyone in the public instead of forcing users to download code and running locally.
 
 ## Technologies Used
 - Pug as template engine
