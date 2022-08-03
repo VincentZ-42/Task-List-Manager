@@ -15,22 +15,22 @@
 ## Usage
 - Click on [Demo](https://secure-harbor-05512.herokuapp.com/users/signin)
 - Sign in with either credentials
-	| :-: | :-: |
-	| username | password |
-	| admin | secret |
-	| developer | letmein |
+| :-: | :-: |
+| username | password |
+| admin | secret |
+| developer | letmein |
 - Navigate with interface available (See [Images](#images) Section)
 
 ## Images
 
 #### Sign in page
-		![sign in page](https://user-images.githubusercontent.com/49771001/182644376-e3dfb875-ef4e-4ceb-9af4-ffe6202457d4.png)
+![sign in page](https://user-images.githubusercontent.com/49771001/182644376-e3dfb875-ef4e-4ceb-9af4-ffe6202457d4.png)
 
 #### Admin's Todo Lists
-		![Admin Login](https://user-images.githubusercontent.com/49771001/182644396-d87f3119-396e-41d0-bd89-238881a66c56.png)
+![Admin Login](https://user-images.githubusercontent.com/49771001/182644396-d87f3119-396e-41d0-bd89-238881a66c56.png)
 
 #### Creating a new Todo List
-		![New List](https://user-images.githubusercontent.com/49771001/182644435-18da4b7f-d0ef-4c44-86fb-5c63999ae57c.png)
+![New List](https://user-images.githubusercontent.com/49771001/182644435-18da4b7f-d0ef-4c44-86fb-5c63999ae57c.png)
 
 
 ## Objectives
