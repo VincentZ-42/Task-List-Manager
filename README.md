@@ -1,4 +1,4 @@
-# Todo List Tracker: [Demo](https://secure-harbor-05512.herokuapp.com/users/signin){target="_black"}
+# Todo List Tracker: [<a href="https://secure-harbor-05512.herokuapp.com/users/signin" target="_blank">Demo</a>]
 - Web Application that allows users to create a multiple list of to-dos and track their task completion
 
 ![sign in page](https://user-images.githubusercontent.com/49771001/182644376-e3dfb875-ef4e-4ceb-9af4-ffe6202457d4.png)
@@ -8,17 +8,20 @@
 ![View Todo List](https://user-images.githubusercontent.com/49771001/182644442-cfcf385b-37cc-4ab8-aa57-36b0bef84ff1.png)
 
 # Table of Contents
-- [Usage](usage)
-- [Objective](objective)
-- [Technologies Used](technologies-used)
-- [References](references)
+- [Usage](#usage)
+- [Images](#images)
+- [Objective](#objective)
+- [Technologies Used](#technologies-used)
+- [References](#references)
 
 ## Usage
 - Sign in wih either credentials
 	- admin, secret
 	- developer, letmein
 
-## Objective
+## Images
+
+## Objectives
 - Create a web application that can track task completion for various to-do lists for mutiple users
 - Use relational database, PostgresSQL, to store user information
 - Deploy web application on Heroku
