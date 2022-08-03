@@ -51,9 +51,9 @@
 
 ## References
 - Launch School Course: JS185
-- Heroku: [](https://devcenter.heroku.com/categories/reference)
-- Pug: [](https://pugjs.org/language/inheritance.html) [Github](https://github.com/pugjs/pug)
-- Express: [](https://expressjs.com/)
+- Heroku: https://devcenter.heroku.com/categories/reference
+- Pug: https://pugjs.org/language/inheritance.html [Github](https://github.com/pugjs/pug)
+- Express: https://expressjs.com/
 
 ## Future implimentations
 - Integrate Google sign-in
