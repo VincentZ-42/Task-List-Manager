@@ -12,7 +12,6 @@
 Task List Manager is a web application that allows users to create multiple lists of tasks and track their completion. Each list and task is unqiue to the user. This application is an upgrade of [To-Do List Tracker](https://github.com/VincentZ-42/LaunchSchool/tree/main/js175/todo), which now includes the implementation of PostgreSQL as the database to persist data and deployed on Heroku.  
 
 ## Usage
-- Click on [Demo](https://secure-harbor-05512.herokuapp.com/users/signin)
 - Sign in with either credentials
 
 | username | password |
@@ -43,9 +42,7 @@ Task List Manager is a web application that allows users to create multiple list
 - Create a web application that can track task completion for various to-do lists for mutiple users
 	- `Express.js` widely used to handling routing and HTTP requests
 - Use relational database, PostgresSQL, to store user information
-	- `PostgreSQL` allows us to associate specific data with certain users, allowing a more personal interface with the application  
-- Deploy web application on Heroku
-	- Deploying on Heroku allows our application to run on a cloud service, giving access to anyone in the public instead of forcing users to download code and running locally.
+	- `PostgreSQL` allows us to associate specific data with certain users, allowing a more personal interface with the application
 
 ## Technologies Used
 - Pug as template engine
