@@ -1,4 +1,4 @@
-# Task List Manager: [Demo](https://secure-harbor-05512.herokuapp.com/users/signin)
+# Task List Manager
 
 # Table of Contents
 - [Description](#description)
@@ -45,7 +45,7 @@ Task List Manager is a web application that allows users to create multiple list
 - Use relational database, PostgresSQL, to store user information
 	- `PostgreSQL` allows us to associate specific data with certain users, allowing a more personal interface with the application  
 - Deploy web application on Heroku
-	- Deploying on Heorku allows our application to run on a cloud service, giving access to anyone in the public instead of forcing users to download code and running locally.
+	- Deploying on Heroku allows our application to run on a cloud service, giving access to anyone in the public instead of forcing users to download code and running locally.
 
 ## Technologies Used
 - Pug as template engine
